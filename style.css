@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color:brown;
+    text-align:center;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+    color: deeppink;
+    font-family: Arial, sana-serif;
+}
+
+li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
