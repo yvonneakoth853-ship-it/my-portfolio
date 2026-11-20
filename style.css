@@ -1,5 +1,9 @@
 body {
     background-color: pink;
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin:0 auto;
+    padding: 20px;
 }
 
 h1 {
@@ -20,4 +24,19 @@ h2 {
 li {
     font-size: 18px;
     margin-bottom: 10px;
+    background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 10px;
+    list-style: none;
+}
+
+a {
+    color: deeppink;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
 }
